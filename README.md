@@ -90,35 +90,35 @@ First and foremost, we have to enable digitisation of the store. Cataloguing ite
 
 With this, we can find our favorite customers. And using the time stamp of purchase, we can create a heatmap as follows.
 
-![daily_purchase_frequency](assets/md/02_daily_purchase_frequency.png)
+![daily_purchase_frequency](assets/md/02_Daily_purchase_frequency.png)
 
 This same technique can be used to create a heat map for a week.
 
-![weekly_purchase_frequency](assets/md/03_weekly_purchase_frequency.png)
+![weekly_purchase_frequency](assets/md/03_Weekly_purchase_frequency.png)
 
 These data can be used to understand customer retention, and popularity of products. We understood 'what' is being bought, lets understand 'how' they are buying these products.
 
-![age_wise_purchase_method](assets/md/04_age_wise_purchase_method.png)
+![age_wise_purchase_method](assets/md/04_Age_wise_purchase_method.png)
 
 Each customer will have a different capacity to purchase products. We can use credit limit vs product interaction correlation.
 
-![credit_limit_and_interaction_correlation](assets/md/05_credit_limit_and_interaction_correlation.png)
+![credit_limit_and_interaction_correlation](assets/md/05_Credit_Limit_and_Interaction_Correlation.png)
 
 We can use this credit limit and apply K-Means clustering to cluster purchases as follows.
 
-![kmeans_cluster](assets/md/06_kmeans_cluster.png)
+![kmeans_cluster](assets/md/06_KMeans_Cluster.png)
 
 Age Group analysis.
 
-![age_group](assets/md/07_age_group.png)
+![age_group](assets/md/07_Age_Group.png)
 
 Location based clustering.
 
-![location](assets/md/08_location.png)
+![location](assets/md/08_Location.png)
 
 Purchase Frequency.
 
-![purchase_frequency](assets/md/09_purchase_frequency.png)
+![purchase_frequency](assets/md/09_Purchase_Frequency.png)
 
 The cost of the product, the reliability of the business and the return policies all play an equally important role in deciding the buying behaviour of customers. The cost is an important factor as it was the basic criteria used by online retailers to attract customers. The reliability of the products sold is also important, as it is required in offline retail. It is important because customers need to be sure of the value they gain, especially for new products being endorsed. The logistics factor, which included Cash option, quality of packaging plays a secondary role in this process though these are Must-be-quality. This is so because these all does not interfere with the real product and people believe that this is the basic value they expect.
 
